@@ -8,7 +8,7 @@ Aplicație desktop dezvoltată în Python + PyQt5, conectată la PostgreSQL, pen
 - Algoritmi: Dijkstra pentru găsirea rutelor optime  
 
 Script pentru popularea bazei de date (utilizand API-ul OSM): 
-1. data.py -> locațiile stațțiilor de autobuz
+1. data.py -> locațiile stațiilor de autobuz
 2. schedule.py -> liniile și opririle lor în stații
 3. sch.py -> generează programele liniilor (nu există date în OSM)
 
