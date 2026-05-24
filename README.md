@@ -12,5 +12,5 @@ Script pentru popularea bazei de date (utilizand API-ul OSM):
 2. schedule.py -> liniile și opririle lor în stații
 3. sch.py -> generează programele liniilor (nu există date în OSM)
 
-Aplicatie:
+Aplicatie:  
 main.py + Baza de date
